@@ -13,3 +13,4 @@
 *Freely available for use and further modifications or as inspiration for your own creations. Primarily with Czech description and comments.*
 
 ---
+![Ender3-S1-Pro (01)](https://user-images.githubusercontent.com/104675746/232574976-71ace9bf-8acc-4321-9e91-964131450283.jpg)
