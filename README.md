@@ -1,1 +1,16 @@
-xxx
+# Creality Ender 3 S1 Pro
+
++ Technická, softwarová podpora a vylepšení tohoto modelu 3D tiskárny
++ Přechod a provoz s open source firmwarem Klipper spolu s open source tiskovým serverem OctoPrint na Raspberry Pi
+
+*Volně k dispozici pro použití a další úpravy či jako inspirace pro vlastní tvorbu. Primárně s českým popisem a komentáři.
+
+---
+
++ Technical, software support and enhancements for this 3D printer model
++ Migration and operation with the open source Klipper firmware together with the open source OctoPrint print server on Raspberry Pi
+
+*Freely available for use and further modifications or as inspiration for your own creations. Primarily with Czech description and comments.
+
+---
+
