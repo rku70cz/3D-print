@@ -5,7 +5,7 @@ Tiskárna je z nadpisu tohoto oddílu patrná. Půjde výhradně o modely realiz
 
 | Složka                                    | Popis (obsah)                                         |
 | :---------------------------------------- | :---------------------------------------------------- |
-| <sub>**_001, Holder for NTB Dell Latitude 5580**</sup> | <sub>Držák resp. stojánek pro notebook Dell Latitude 5580</sub> |
+| <sub>**001, Holder for NTB Dell Latitude 5580**</sup> | <sub>Držák resp. stojánek pro notebook Dell Latitude 5580</sub> |
 
 ---
 
