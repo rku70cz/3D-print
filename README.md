@@ -5,11 +5,10 @@
 
 *Volně k dispozici pro použití a další úpravy či jako inspirace pro vlastní tvorbu. Primárně s českým popisem a komentáři.*
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| Složka                                    | Popis (obsah)                                         |
+| ----------------------------------------- | ----------------------------------------------------- |
+| Ender 3 S1 Pro, LED BAR electronic switch | Ovládání osvětlovací LED rampy OctoPrintem (hardware) |
+| Ender 3 S1 Pro, Print samples             | Ukázky tisků                                          |
 
 ---
 
