@@ -7,8 +7,8 @@
 
 | Složka                                    | Popis (obsah)                                         |
 | :---------------------------------------- | :---------------------------------------------------- |
-| <sub><sup>**Ender 3 S1 Pro, LED BAR electronic switch**</sub></sup> | Ovládání osvětlovací LED rampy OctoPrintem (hardware) |
-| **Ender 3 S1 Pro, Print samples**             | Ukázky tisků *("pelmel" s popisky, foto a STL)*       |
+| <sub>**Ender 3 S1 Pro, LED BAR electronic switch**</sup> | <sub>Ovládání osvětlovací LED rampy OctoPrintem (hardware)</sub> |
+| <sub>**Ender 3 S1 Pro, Print samples**</sub>             | <sub>Ukázky tisků *("pelmel" s popisky, foto a STL)*</sub>       |
 
 ---
 
