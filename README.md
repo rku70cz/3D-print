@@ -5,12 +5,10 @@
 
 *Volně k dispozici pro použití a další úpravy či jako inspirace pro vlastní tvorbu. Primárně s českým popisem a komentáři.*
 
-<sub><sup>
 | Složka                                    | Popis (obsah)                                         |
 | :---------------------------------------- | :---------------------------------------------------- |
-| **Ender 3 S1 Pro, LED BAR electronic switch** | Ovládání osvětlovací LED rampy OctoPrintem (hardware) |
+| <sub><sup>**Ender 3 S1 Pro, LED BAR electronic switch**</sub></sup> | Ovládání osvětlovací LED rampy OctoPrintem (hardware) |
 | **Ender 3 S1 Pro, Print samples**             | Ukázky tisků *("pelmel" s popisky, foto a STL)*       |
-</sub></sup>
 
 ---
 
