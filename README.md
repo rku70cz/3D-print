@@ -5,6 +5,12 @@
 
 *Volně k dispozici pro použití a další úpravy či jako inspirace pro vlastní tvorbu. Primárně s českým popisem a komentáři.*
 
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
 ---
 
 + Technical, software support and enhancements for this 3D printer model
