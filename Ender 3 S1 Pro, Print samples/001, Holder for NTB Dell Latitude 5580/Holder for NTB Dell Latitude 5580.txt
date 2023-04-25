@@ -4,9 +4,9 @@ Holder for NTB Dell Latitude 5580.txt
 "Stojánek(držák) notebooku Dell Latitude 5580"
 
 *po drobných úpravách lze použít víceméně jako stojánek na cokoliv ... např. kniha(y) ...
-
-'''Výše uvedený model notebooku momentálně používám jako náhradu za klasické stolní PC. Klasika s připojeným externím monitorem, samostatnou klávesnicí s myší atd. atd. V mém už tak stísněném prostoru mě notebook pořád překážel. Jediné volné místo na multifunkční tiskárně se skenerem nebylo ideální - trochu "překážel" při skenování. Měl jsem proto nápad, že jej uložím "na stojáka".'''
-
+```
+Výše uvedený model notebooku momentálně používám jako náhradu za klasické stolní PC. Klasika s připojeným externím monitorem, samostatnou klávesnicí s myší atd. atd. V mém už tak stísněném prostoru mě notebook pořád překážel. Jediné volné místo na multifunkční tiskárně se skenerem nebylo ideální - trochu "překážel" při skenování. Měl jsem proto nápad, že jej uložím "na stojáka".
+```
 ---
 
 Po tom co jsem doladil nastavení tiskové, vyhřívané podložky se zrcadlem (náhrada za originální plát s PEI viz. moje počáteční trápení popsané na https://rpipico-bastlirna.webnode.cz/l/octoprint-octopi-a-klipper) a vše otestoval, vymyslel jsem tiskárně tento úkol. Ukázalo se do začátku s PETG jako hodně dobrá výzva nebo-li CHALLENGE!!! Tiskárnu totiž zaměstná na 24+ hodin!!! S tím je potřeba počítat. Ale také tiskárnu perfektně prověří ...
